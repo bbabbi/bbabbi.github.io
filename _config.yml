@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/ProfileImg.jpeg"
   bio              : "Fortune favors the brave"
   location         : "South Korea"
-  email            : 
+  email            : "mooncheayoung@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mooncheayoung@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mooncheayoung@gmail.com"
     - label: "GitHub"
       icon: "fas fa-fw fa-link"
       # url: "https://github.com/bbabbi"
